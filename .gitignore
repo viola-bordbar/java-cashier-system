@@ -1,0 +1,15 @@
+# Java compiled files
+*.class
+
+# Build output
+out/
+build/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+error_log.txt
+total_revenue_log.txt
